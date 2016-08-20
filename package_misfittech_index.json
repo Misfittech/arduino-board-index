@@ -11,7 +11,7 @@
           "category": "MisfitTech",
           "name": "MisfitTech SAMD Boards",
           "url": "https://github.com/Misfittech/arduino-board-index/raw/master/boards/misfittech_samd-1.0.0.tar.bz2",
-          "checksum": "SHA-256:5151FA69219A853A52559EA3379F3FBB8187C61601FFE367EFCCC6216632749C",
+          "checksum": "SHA-256:7D8BE1FAAE4702CEB7934D63766339CC4C2C8904",
           "help": {
             "online": "http://misfittech.net"
           },
