@@ -1,0 +1,57 @@
+{
+  "packages": [
+    {
+      "maintainer": "MisfitTech",
+      "help": {
+        "online": "http://MisfitTech.net"
+      },
+      "websiteURL": "http://MisfitTech.net",
+      "platforms": [
+            {
+          "category": "MisfitTech",
+          "name": "MisfitTech SAMS Boards",
+          "url": "https://github.com/Misfittech/arduino-board-index/raw/master/boards/misfittech_sams-0.0.1.tar.bz2",
+          "checksum": "SHA-256:6d70f3b763a1400482cf5987864712a1570302076940ae55687a7c53346c412b",
+          "help": {
+            "online": "http://misfittech.net"
+          },
+          "version": "0.0.1",
+          "architecture": "sams",
+          "archiveFileName": "misfittech_sams-0.0.1.tar.bz2",
+          "boards": [
+            {
+              "name": "Misfit Potentiostat"
+            }
+          ],
+          "toolsDependencies": ["C:/Users/TSTERN/AppData/Local/Arduino15/packages/misfittech/hardware/sams/0.0.1/boards.txt"
+            {
+              "packager": "arduino",
+              "version": "4.8.3-2014q1",
+              "name": "arm-none-eabi-gcc"
+            },
+            {
+              "packager": "arduino",
+              "version": "1.6.1-arduino",
+              "name": "bossac"
+            },
+            {
+              "packager": "arduino",
+              "version": "0.9.0-arduino",
+              "name": "openocd"
+            },
+            {
+              "packager": "arduino",
+              "version": "4.0.0-atmel",
+              "name": "CMSIS"
+            }
+          ],
+          "size": "12852574"
+        }
+      ],
+      "tools": [],
+      "email": "info@misfittech.net",
+      "name": "misfittech"
+    }
+  
+  ]
+}
