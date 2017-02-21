@@ -4,14 +4,14 @@
       "maintainer": "MisfitTech",
       "help": {
         "online": "http://MisfitTech.net"
-      },
+      },"C:/Users/TSTERN/Google Drive/Misift/github/arduino-board-index/package_misfittech_sams_index.json"
       "websiteURL": "http://MisfitTech.net",
       "platforms": [
             {"C:/Users/TSTERN/Google Drive/Misift/github/arduino-board-index/package_misfittech_sams_index.json"
           "category": "MisfitTech",
           "name": "MisfitTech SAMS Boards",
           "url": "https://github.com/Misfittech/arduino-board-index/raw/master/boards/misfittech_sams-0.0.1.tar.bz2",
-          "checksum": "SHA-256:19259086eac2580d53786e2c0608be3448970b359c83ea5004f259f6d6f58d9e",
+          "checksum": "SHA-256:9edda5145b8ffd21cb9e1e97d8f5b58caed8a356a09a5b3de464a5dc151ad62b",
           "help": {
             "online": "http://misfittech.net"
           },
