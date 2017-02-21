@@ -23,7 +23,7 @@
               "name": "Misfit Potentiostat"
             }
           ],
-          "toolsDependencies": ["C:/Users/TSTERN/AppData/Local/Arduino15/packages/misfittech/hardware/sams/0.0.1/boards.txt"
+          "toolsDependencies": [
             {
               "packager": "arduino",
               "version": "4.8.3-2014q1",
