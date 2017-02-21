@@ -4,10 +4,10 @@
       "maintainer": "MisfitTech",
       "help": {
         "online": "http://MisfitTech.net"
-      },"C:/Users/TSTERN/Google Drive/Misift/github/arduino-board-index/package_misfittech_sams_index.json"
+      },
       "websiteURL": "http://MisfitTech.net",
       "platforms": [
-            {"C:/Users/TSTERN/Google Drive/Misift/github/arduino-board-index/package_misfittech_sams_index.json"
+            {
           "category": "MisfitTech",
           "name": "MisfitTech SAMS Boards",
           "url": "https://github.com/Misfittech/arduino-board-index/raw/master/boards/misfittech_sams-0.0.1.tar.bz2",
