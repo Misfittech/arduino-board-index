@@ -15,7 +15,7 @@
           "help": {
             "online": "http://misfittech.net"
           },
-          "version": "1.0.0",
+          "version": "1.0.1",
           "architecture": "samd",
           "archiveFileName": "misfittech_samd-1.0.1.tar.bz2",
           "boards": [
