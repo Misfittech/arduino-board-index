@@ -10,7 +10,7 @@
             {
           "category": "MisfitTech",
           "name": "MisfitTech SAMD Boards",
-          "url": "https://github.com/jaredgonzales/arduino-board-index/raw/bugfix/extracting_directory_error/boards/misfit_samd-1.0.1.tar.bz2",
+          "url": "https://github.com/jaredgonzales/arduino-board-index/raw/bugfix/extracting_directory_error/boards/misfittech_samd-1.0.1.tar.bz2",
           "checksum": "SHA-256:1e8086e8d59148e61063fa759424aa2c39cb0a6f73e288aa4c58c1f6ad3340ec",
           "help": {
             "online": "http://misfittech.net"
