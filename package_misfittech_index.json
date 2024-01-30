@@ -10,14 +10,14 @@
             {
           "category": "MisfitTech",
           "name": "MisfitTech SAMD Boards",
-          "url": "https://github.com/Misfittech/arduino-board-index/raw/master/boards/misfittech_samd-1.0.0.tar.bz2",
-          "checksum": "SHA-256:56A29C6B51540AA032FB18977258F7CE110D30C45A22F9ACFD8F81F744EB9041",
+          "url": "https://github.com/jaredgonzales/arduino-board-index/raw/bugfix/extracting_directory_error/boards/misfit_samd-1.0.1.tar.bz2",
+          "checksum": "SHA-256:1e8086e8d59148e61063fa759424aa2c39cb0a6f73e288aa4c58c1f6ad3340ec",
           "help": {
             "online": "http://misfittech.net"
           },
           "version": "1.0.0",
           "architecture": "samd",
-          "archiveFileName": "misfittech_samd-1.0.0.tar.bz2",
+          "archiveFileName": "misfittech_samd-1.0.1.tar.bz2",
           "boards": [
             {
               "name": "Nano Zero"
@@ -45,7 +45,7 @@
               "name": "CMSIS"
             }
           ],
-          "size": "12852574"
+          "size": "10301440"
         }
       ],
       "tools": [],
